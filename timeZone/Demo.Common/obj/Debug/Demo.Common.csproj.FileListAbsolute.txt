@@ -1,0 +1,12 @@
+C:\Users\Hack For Kinect\Desktop\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledButtonBrushes.baml
+C:\Users\Hack For Kinect\Desktop\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledTitleBarButtons.baml
+C:\Users\Hack For Kinect\Desktop\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledWindow.baml
+C:\Users\Hack For Kinect\Desktop\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledWindow.g.cs
+C:\Users\Hack For Kinect\Desktop\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Demo.Common_MarkupCompile.cache
+C:\Users\Hack For Kinect\Desktop\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Demo.Common.g.resources
+C:\Users\Hack For Kinect\Desktop\皮肤\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledButtonBrushes.baml
+C:\Users\Hack For Kinect\Desktop\皮肤\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledTitleBarButtons.baml
+C:\Users\Hack For Kinect\Desktop\皮肤\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledWindow.baml
+C:\Users\Hack For Kinect\Desktop\皮肤\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Resource Dictionaries\MacStyledWindow.g.cs
+C:\Users\Hack For Kinect\Desktop\皮肤\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Demo.Common_MarkupCompile.cache
+C:\Users\Hack For Kinect\Desktop\皮肤\TimeZoneDaemonApp(3D).20131017\Demo.Common\obj\Debug\Demo.Common.g.resources
